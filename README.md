@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/amelachour?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=amelachour&label=Profile%20views&color=0e75b6&style=plastic" alt="amel achour github" width="110px" /> 
 
-![amelachourcoverturegithub](https://github.com/amelachour/amelachour/blob/main/amelachour.png)
+![amelachourcoverturegithub](https://raw.githubusercontent.com/amelachour/amelachour/main/amelachour.png)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
