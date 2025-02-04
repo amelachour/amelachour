@@ -1,11 +1,11 @@
 ### Hi there, I'm Amel Achour  👋 
 
-[![Linkedin:Amel](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amel-achour-684a11215/)](https://www.linkedin.com/in/amel-achour-684a11215/)
-[![Facebook:Amel](https://img.shields.io/badge/-Sabir-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/amal.achour.79656)](https://www.facebook.com/amal.achour.79656)
-![GitHub followers](https://img.shields.io/github/followers/sabirlkhaloufi?label=Follow&style=social)
+[![Linkedin:Amel](https://img.shields.io/badge/-Amel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amel-achour-684a11215/)](https://www.linkedin.com/in/amel-achour-684a11215/)
+[![Facebook:Amel](https://img.shields.io/badge/-Amel-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/amal.achour.79656)](https://www.facebook.com/amal.achour.79656)
+![GitHub followers](https://img.shields.io/github/followers/amelachour?label=Follow&style=social)
 <img src="https://komarev.com/ghpvc/?username=amelachour&label=Profile%20views&color=0e75b6&style=plastic" alt="amel achour github" width="110px" /> 
 
-![SabirLkhalouficoverturegithub](https://github.com/amelachour/amelachour/blob/main/amelachour.png)
+![amelachourcoverturegithub](https://github.com/amelachour/amelachour/blob/main/amelachour.png)
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
